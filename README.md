@@ -13,7 +13,7 @@ through day-wise problem solving.
 
 📁 Medium Level – Number Programming
 
-- **Day 02: Medium Number Programs**
+- **Day 02: Medium Number Programs**  
   👉 [View Day 02 Programs](src/number_Programming/medium/day_02)
 
 
