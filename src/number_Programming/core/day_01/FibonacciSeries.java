@@ -1,7 +1,7 @@
 package number_Programming.core.day_01;
 import java.util.Scanner;
 //12.write a program to produce the fibonacci series
-public class FibonacciSeires
+public class FibonacciSeries
 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
