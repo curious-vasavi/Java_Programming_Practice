@@ -11,6 +11,15 @@ through day-wise problem solving.
 - **Day 01: Core Number Programs**  
   👉 [View Day 01 Programs](src/number_Programming/core/day_01)
 
+## 📁 Medium Level – Number Programming
+
+- **Day 02: Medium Number Programs**  
+  👉 [View Day 02 Programs](src/number_Programming/medium/day_02)
+
+
+
+
+
 ---
 
 ## Repository Structure
