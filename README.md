@@ -16,6 +16,8 @@ through day-wise problem solving.
 - **Day 02: Medium Number Programs**  
   👉 [View Day 02 Programs](src/number_Programming/medium/day_02)
 
+- **Day 03: Medium Number Programs**  
+  👉 [View Day 03 Programs](src/number_Programming/medium/day_03)
 
 
 
