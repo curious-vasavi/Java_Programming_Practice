@@ -19,7 +19,7 @@ through day-wise problem solving.
 - **Day 03: Medium Number Programs**  
   👉 [View Day 03 Programs](src/number_Programming/medium/day_03)
 
-  - **Day 04: Medium Number Programs**  
+- **Day 04: Medium Number Programs**  
   👉 [View Day 04 Programs](src/number_Programming/medium/day_04)
 
 
