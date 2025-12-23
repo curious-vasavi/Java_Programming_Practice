@@ -24,6 +24,11 @@ through day-wise problem solving.
   
 - **Day 05: Medium Number Programs**  
   👉 [View Day 05 Programs](src/number_Programming/medium/day_05)
+  
+## 📁 Advance Level – Number Programming
+
+- **Day 06: Advance Number Programs**  
+  👉 [View Day 06 Programs](src/number_Programming/core/day_06)
 
 
 
