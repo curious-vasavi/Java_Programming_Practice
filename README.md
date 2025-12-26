@@ -1,5 +1,11 @@
 README.md
-# Java Programming Practice
+# Java Practice - Java Programming Practice
+
+This repository contains **Java practice programs** and **Java programming practice problems**
+designed for beginners and intermediate learners.
+
+It focuses on daily Java coding practice covering core Java concepts,
+object-oriented programming, and problem-solving techniques.
 
 A structured Java practice repository focused on building strong programming fundamentals
 through day-wise problem solving.
@@ -24,6 +30,11 @@ through day-wise problem solving.
   
 - **Day 05: Medium Number Programs**  
   👉 [View Day 05 Programs](src/number_Programming/medium/day_05)
+  
+## 📁 Advance Level – Number Programming
+
+- **Day 06: Advance Number Programs**  
+  👉 [View Day 06 Programs](src/number_Programming/core/day_06)
 
 
 
