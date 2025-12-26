@@ -36,7 +36,8 @@ through day-wise problem solving.
 - **Day 06: Advance Number Programs**  
   👉 [View Day 06 Programs](src/number_Programming/core/day_06)
 
-
+ **Day 07: Advance Number Programs**  
+  👉 [View Day 07 Programs](src/number_Programming/core/day_07)
 
 
 ---
