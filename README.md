@@ -34,10 +34,14 @@ through day-wise problem solving.
 ## 📁 Advance Level – Number Programming
 
 - **Day 06: Advance Number Programs**  
-  👉 [View Day 06 Programs](src/number_Programming/core/day_06)
+  👉 [View Day 06 Programs](src/number_Programming/advance/day_06)
 
- **Day 07: Advance Number Programs**  
-  👉 [View Day 07 Programs](src/number_Programming/core/day_07)
+- **Day 07: Advance Number Programs**  
+  👉 [View Day 07 Programs](src/number_Programming/advance/day_07)
+
+- **Day 08: Advance Number Programs**  
+  👉 [View Day 08 Programs](src/number_Programming/advance/day_08)
+
 
 
 ---
