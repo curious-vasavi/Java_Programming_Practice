@@ -42,7 +42,10 @@ through day-wise problem solving.
 - **Day 08: Advance Number Programs**  
   👉 [View Day 08 Programs](src/number_Programming/advance/day_08)
 
+## 📁 Core Level – Array Programming
 
+- **Day 09: Core Array Programs**  
+  👉 [View Day 09 Programs](src/array_Programming/core/day_09)
 
 ---
 
