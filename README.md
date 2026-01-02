@@ -46,6 +46,11 @@ through day-wise problem solving.
 
 - **Day 09: Core Array Programs**  
   👉 [View Day 09 Programs](src/array_Programming/core/day_09)
+  
+## 📁 Medium Level – Array Programming
+
+- **Day 10: Medium Array Programs**  
+  👉 [View Day 10 Programs](src/array_Programming/medium/day_10)
 
 ---
 
