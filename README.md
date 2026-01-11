@@ -55,6 +55,10 @@ through day-wise problem solving.
 - **Day 11: Medium Array Programs**  
   👉 [View Day 11 Programs](src/array_Programming/medium/day_11)
 
+- **Day 12: Medium Array Programs**  
+  👉 [View Day 12 Programs](src/array_Programming/medium/day_12)
+
+
 ---
 
 ## Repository Structure
