@@ -58,6 +58,9 @@ through day-wise problem solving.
 - **Day 12: Medium Array Programs**  
   👉 [View Day 12 Programs](src/array_Programming/medium/day_12)
 
+- **Day 13: Medium Array Programs**  
+  👉 [View Day 13 Programs](src/array_Programming/medium/day_13)
+
 
 ---
 
