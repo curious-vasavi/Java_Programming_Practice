@@ -66,6 +66,12 @@ through day-wise problem solving.
 - **Day 14: Advance Array Programs**  
   👉 [View Day 14 Programs](src/array_Programming/advance/day_14)
 
+## 📁 Core Level – Pattern Programming
+
+- **Day 15: Core Pattern Programs**  
+  👉 [View Day 15 Programs](src/pattern_Programming/core/day_15)
+
+
 
 ---
 
