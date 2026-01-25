@@ -61,6 +61,11 @@ through day-wise problem solving.
 - **Day 13: Medium Array Programs**  
   👉 [View Day 13 Programs](src/array_Programming/medium/day_13)
 
+## 📁 Advance Level – Array Programming
+  
+- **Day 14: Advance Array Programs**  
+  👉 [View Day 14 Programs](src/array_Programming/advance/day_14)
+
 
 ---
 
